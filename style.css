@@ -130,6 +130,7 @@ body{
 nav{
     flex-direction: column;
     gap: 15px;
+    align-items: center;
 }
 h1{
     font-size: 32px;
@@ -145,3 +146,4 @@ section{
     margin-bottom: 40px;
 }
 }
+
